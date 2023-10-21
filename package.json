@@ -1,0 +1,13 @@
+{
+  "name": "fire",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "FI/RE (Financial Independence / Retiring Early)"
+  ],
+  "author": {
+    "name": "Nansen Ho",
+    "email": "song.he0302@gmail.com"
+  },
+  "license": "MIT"
+}
